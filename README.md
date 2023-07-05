@@ -1,5 +1,5 @@
 # momentumClone
-Doing another momentum clone as part of my learning path. 
+Doing another momentum clone :D :D :D . 
 
 Try it heeeeere: https://paulojamero.github.io/momentumClone/
 
